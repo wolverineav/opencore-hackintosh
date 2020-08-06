@@ -100,7 +100,7 @@
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
-						<data>AwAAAA==</data>
+						<data>AQAAAA==</data>
 						<key>Comment</key>
 						<string>Rear USB 3.2 Type A, 2.0 Personality, Top Row, 1</string>
 					</dict>
@@ -109,7 +109,7 @@
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
-						<data>AQAAAA==</data>
+						<data>AgAAAA==</data>
 						<key>Comment</key>
 						<string>Rear USB 3.2 Type A, 2.0 Personality, Top Row, 2</string>
 					</dict>
@@ -118,7 +118,7 @@
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
-						<data>AgAAAA==</data>
+						<data>AwAAAA==</data>
 						<key>Comment</key>
 						<string>Rear USB 3.2 Type A, 2.0 Personality, Low Row, 1</string>
 					</dict>
