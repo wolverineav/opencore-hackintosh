@@ -371,7 +371,7 @@
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SmallTreeIntel82576</string>
 				<key>BundlePath</key>
-				<string>SmallTreeIntel82576.kext</string>
+				<string>SmallTree-Intel-211-AT-PCIe-GBE.kext</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
