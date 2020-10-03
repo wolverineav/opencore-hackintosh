@@ -149,6 +149,15 @@
 						<key>Comment</key>
 						<string>Rear USB 3.2 Type A, 3.0 Personality, Low Row, 1</string>
 					</dict>
+					<key>PRT6</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>BgAAAA==</data>
+						<key>Comment</key>
+						<string>Internal WiFi + Bluetooth Connector USB 2.0 Header</string>
+					</dict>
 				</dict>
 			</dict>
 			<key>model</key>
